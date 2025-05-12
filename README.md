@@ -43,7 +43,7 @@
 
 ![img](https://r2.wuxie.de/blog/20250512_9efcfc26.png)
 
-[点击查看预览](wallos.wuxie.de)
+[点击查看预览](https://wallos.wuxie.de)
 
 [查看 GitHub 代码](https://github.com/xinycai/worker_wallos/blob/main/worker.js)
 
